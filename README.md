@@ -1,2 +1,2 @@
 # ansible2
-for ansible learning
+This is my Ansible repository.
